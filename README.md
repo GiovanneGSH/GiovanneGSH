@@ -127,7 +127,7 @@
         />
     </a>
 <br>
-  
+<br> 
 <h2> :bar_chart: Estatísticas </h2>
 
 <p>
