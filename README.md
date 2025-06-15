@@ -96,32 +96,32 @@
 />
 <img 
     align="left" 
-    alt="vscode" 
-    title="vscode"
+    alt="VsCode" 
+    title="VsCode"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 <img 
     align="left" 
-    alt="visual studio" 
-    title="visual studio"
+    alt="Visual Studio" 
+    title="Visual Studio"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
 />
 <img 
     align="left" 
-    alt="figma"
-    title="figma" 
+    alt="Figma"
+    title="Figma" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 <img 
     align="left" 
-    alt="photoshop" 
-    title="photoshop"
+    alt="Photoshop" 
+    title="Photoshop"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
